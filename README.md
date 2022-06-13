@@ -20,7 +20,7 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 ## Experience
 
 ### **Frontend Engineer**
-## Metabob
+### Metabob
 
 Working with Frontend team to provide best experience to faciltators and participants.I have worked on features like building dashboard displaying vital
 customer details and analytics about how their codebase has been impacted by poor code quality, creating a code view to allow users to provide code
@@ -31,7 +31,7 @@ Intergate the AI tool with different platform like JIRA, Github, Bitbucket, and 
 ---
 
 ### **Sr.Software Engineer**
-## Naehas
+### Naehas
 
 Responsible for handling end-to-end delivery process of web application with the latest technology stack React/Redux.
 Consistently catering to customer needs, deploying the product on clients, analyzing requirements, estimating and implementing the solution are also under the purview of my responsibilities.The other tasks that I handle are reviewing of deliverables, resolving defects, leading the modules and delivering them within time frames while ensuring that they match with the technical and functional requirements. 
@@ -39,30 +39,31 @@ Consistently catering to customer needs, deploying the product on clients, analy
 ---
 
 ### **Frontend Engineer**
-## Metadesign
+### Metadesign
 
 While working here I have gained a lot of experience in designing and developing web and mobile applications. 
 Apart from that, I learned to convert row HTML to interactive websites using cutting-edge technology stack. I have been involved in projects such as Market place, SaaS, Social Website and others based on a solid understanding of OOPS concepts.
 I have been responsible for setting up project designs and breaking up into reusable components to develop an effective and long-lasting versatile applications. 
 I also redesigned JavaScript and JQuery based applications into angular to adapt new features and standards of web application and consistently delivering to customer needs. With this stint, I have advanced my learning in web development technologies.
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Education
 
-[Link](url) and ![Image](src)
-```
+### **University Of California, Berkeley Extension, USA**
+### Data Science & Analytics Immersive Program (2020- 2021)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
 
-### Jekyll Themes
+### **Guru Gobind Singh Indraprastha University, New Delhi, India**
+### Master of Computer Application (2012-2015)
+GPA : 8.4
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NitikaKuhar/NitikaKuhar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### **Indira Gandhi National Open University, India**
+### Bachelor of Computer Application (2008-2011)
+GPA : 6.9
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
