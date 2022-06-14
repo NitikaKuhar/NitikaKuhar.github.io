@@ -22,8 +22,8 @@ I am a Frontend Engineer with an experience of over 5 years. I have hands on exp
 ### **Software Engineer (Frontend)**
 ### Metabob
 
-- Working with Frontend team to provide best experience to faciltators and participants.
-- I have worked on features like building dashboard displaying vital customer details and analytics about how their codebase has been impacted by poor code quality, creating a code view to allow users to provide code recommendations, adding Mixpanel events for marketing purpose, created Setting screen which allow user to generate the API Key, Manage Repositories, and Intergate the AI tool with different platform like JIRA, Github, Bitbucket, and written end-to-end testing for the application using a tool called  “Cypress”, which enables tests to be written across browsers and environments.
+- Working with the Frontend team to provide the best experience to facilitators and participants.
+- I have worked on features like building a dashboard displaying vital customer details and analytics about how their codebase has been impacted by poor code quality, creating a code view to allow users to provide code recommendations, adding Mixpanel events for marketing purposes, created Setting screen which allows the user to generate the API Key, Manage Repositories, and Intergate the AI tool with different platforms like JIRA, Github, Bitbucket, and written end-to-end testing for the application using a tool called “Cypress”, which enables tests to be written across browsers and environments.
 
 ---
 
