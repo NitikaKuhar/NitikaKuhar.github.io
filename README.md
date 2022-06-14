@@ -1,5 +1,5 @@
 ## Portfolio
-I am a frontend engineer with an experience of over 5 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on react for 4 years.
+I am a Frontend Engineer with an experience of over 5 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on react for 4 years.
 
 ---
 
