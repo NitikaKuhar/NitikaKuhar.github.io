@@ -38,7 +38,7 @@ Consistently catering to customer needs, deploying the product on clients, analy
 
 ---
 
-### **Frontend Engineer**
+### **Software Engineer**
 ### Metadesign
 
 While working here I have gained a lot of experience in designing and developing web and mobile applications. 
